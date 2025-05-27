@@ -48,6 +48,14 @@ body {
   margin-bottom: 2rem;
 }
 
+/* Compliance badge for the legal page */
+.compliance-badge {
+    background-color: #f8f9fa;
+    border-left: 4px solid var(--primary-color);
+    padding: 1rem;
+    margin: 1.5rem 0;
+}
+
 /* Feature Cards */
 .feature-card {
   border: none;
