@@ -67,6 +67,15 @@ body {
   margin-bottom: 1rem;
 }
 
+/* Content card for the legal pages */
+.content-card {
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    margin-bottom: 2rem;
+}
+
 /* Testimonials */
 .testimonial-card {
   background-color: white;
@@ -138,6 +147,17 @@ body {
 .footer-links a:hover {
   color: white;
   text-decoration: underline;
+}
+
+
+
+/* For the legal pages */
+.last-updated {
+    font-style: italic;
+    color: #6c757d;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 /* Responsive adjustments */
