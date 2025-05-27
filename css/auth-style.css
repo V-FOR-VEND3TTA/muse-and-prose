@@ -104,3 +104,10 @@
       width: 0%;
       transition: width 0.3s ease;
     }
+    /* Instructions */
+    .instructions {
+      background-color: #f8f9fa;
+      border-left: 4px solid var(--accent-color);
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
